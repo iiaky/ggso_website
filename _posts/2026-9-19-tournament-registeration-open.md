@@ -8,7 +8,7 @@ permalink: /2027-tournament-registration/
 
 Hi GGSO Community,
 
-Registration for this season’s Golden Gate Invitational opens **today, at 12:00 PM PDT**, via the <a> target="_blank" href="https://forms.gle/VimwxuH4ZWYZdhGo9">Tournament Registration Form</a> . Please note that we are no longer using Scilympiad. Head coaches will be emailed regarding the status of their team(s) shortly after registration closes Our tournament is capped at 60 teams total. 
+Registration for this season’s Golden Gate Invitational opens **today, at 12:00 PM PDT**, via the <a target="_blank" href="https://forms.gle/VimwxuH4ZWYZdhGo9">Tournament Registration Form</a> . Please note that we are no longer using Scilympiad. Head coaches will be emailed regarding the status of their team(s) shortly after registration closes Our tournament is capped at 60 teams total. 
 
 One small change has been made to the registration form: **our mailing address for checks is now TBD** and will be emailed to registered teams.
 
